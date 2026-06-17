@@ -23,7 +23,7 @@ export default function MoonOfMemories({ name = "Sophia", triggerSparkles }) {
     "On this special day, I wish you all the joy and happiness",
     "in the universe.",
     "",
-    "Happy Birthday, my love.",
+    "Happy Birthday, ${name}!",
     "",
     "Yours forever,",
     "❤️"

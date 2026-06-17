@@ -435,7 +435,7 @@ export default function App() {
 
           <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
             <h1 className="font-luxury-title" style={{ fontSize: 'var(--fs-hero-title)', margin: 0, letterSpacing: '0.15em' }}>
-              Happy Birthday My Love
+              Happy Birthday 
             </h1>
             <h1 className="font-luxury-title font-calligraphy" style={{ fontSize: 'var(--fs-hero-name)', margin: '5px 0 0', color: 'var(--color-gold)' }}>
               {name}
